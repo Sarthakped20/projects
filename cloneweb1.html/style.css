@@ -35,9 +35,29 @@ body{
     padding-left: 45px;
     font-size: 6vh;
 }
-#headings2{
+#head2{
     padding-left: 100px;
 }
 #headings3{
     text-align: right;
+}
+
+#sidetxt{
+    gap: 1.8;
+    text-align: right;
+    font-size: 2.5vh;
+    margin-top: 150px;
+}
+
+#fFooter{
+    margin-top: 15px;
+    font-size: 2.01vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#fFooter a{
+    text-decoration: none;
+    color: #fff;
 }
